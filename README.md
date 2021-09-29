@@ -1,5 +1,5 @@
 # MqttMessageStore
-A solution to handle the structure of and MQTT MEssage Store
+A solution to handle the structure of and MQTT MEssage Store, using trees in Javascript.
 
 
 MQTT topics are name spaces that are used to separate different types of messages,
